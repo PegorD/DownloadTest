@@ -1,0 +1,11 @@
+{
+"messages":[
+{"id":1,
+  "sender": "Pegor",
+  "receiver": "Pamela",
+  "message": "Happy Birthday!!"},
+{"id":2,
+"sender":"Pamela",
+"receiver": "Pegor",
+"message":"Thank youuu!"}]
+  }
