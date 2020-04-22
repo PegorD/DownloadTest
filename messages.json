@@ -1,4 +1,5 @@
 {
+   "total_messages":3,
    "messages":[
       {
          "id":1,
@@ -10,7 +11,7 @@
          "id":2,
          "sender":"Pamela",
          "receiver":"Pegor",
-         "message":"Thank youu!"
+         "message":"Thank youuu!"
       },
       {
          "id":3,
